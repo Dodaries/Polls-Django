@@ -1,3 +1,23 @@
-# Django-Polls
+# Django-Poll-Tutorial
 
-Python Django 튜토리얼 따라하기
+This is an python django example. clone code Python django docs.  
+link - https://docs.djangoproject.com/ko/4.0/intro/
+
+</br>
+
+## Requirements
+- python 3.8.10
+- Django 4.0.4
+
+</br>
+
+## Usage
+```shell
+$ python3 app.py
+```
+
+</br>
+
+## License
+
+MIT © Richard McRichface
